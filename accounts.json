@@ -1,1 +1,1 @@
-{"accounts": [{"u": "admin", "salt": "ef472fe5bee8894e5fdda519753710cb", "hash": "ELUhuL0ppngTorOS5pnboNr1Vy0xph5LjD9ttr8wPGs", "role": "admin", "disabled": false, "createdAt": "2026-10-04 00:00:00"}]}
+{"accounts":[{"u":"admin","salt":"ef472fe5bee8894e5fdda519753710cb","hash":"ELUhuL0ppngTorOS5pnboNr1Vy0xph5LjD9ttr8wPGs","role":"admin","disabled":false,"createdAt":"2026-10-04 00:00:00"},{"u":"7623576863","salt":"def7ec9a7c943802ba877af3d4e27f90","hash":"e65BCn0ERh79aMnwKwefPlHvIc2qU-KMg5WUVolns8E","role":"user","disabled":false,"createdAt":"2026/10/4 23:23:32"}]}
